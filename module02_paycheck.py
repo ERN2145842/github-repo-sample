@@ -1,7 +1,7 @@
 """
 Ernest La Mertha
-Module 02 Lab Assignment
-Part A
+Module 08 Lab Assignment
+Part B
 
 This program calculates that paycheck of someone based on the amount of hours
 they worked and their hourly wage.    
